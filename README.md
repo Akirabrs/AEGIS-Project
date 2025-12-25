@@ -23,4 +23,4 @@ The system utilizes the **NOBEL-V4** analytical engine to monitor plasma stabili
 ![Simulation Plot](https://raw.githubusercontent.com/Akirabrs/AEGIS-Project/main/docs/assets/simulation_plot.png)
 
 ### ⚡ Demonstração em Tempo Real
-![Aegis Demo](https://raw.githubusercontent.com/Akirabrs/AEGIS-Project/main/docs/assets/aegis_demo.gif)
+![Aegis Demo](https://raw.githubusercontent.com/Akirabrs/AEGIS-Project/main/docs/assets/aegis_demo.gif.gif)
