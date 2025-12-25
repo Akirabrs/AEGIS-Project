@@ -20,7 +20,7 @@ The system utilizes the **NOBEL-V4** analytical engine to monitor plasma stabili
 *Developed by Guilherme Brasil de Souza (Guibral Labs) - 2025.*
 
 ### 📈 Gráfico de Estabilidade
-![Simulation Plot](docs/assets/simulation_plot.png)
+![Simulation Plot](https://raw.githubusercontent.com/Akirabrs/AEGIS-Project/main/docs/assets/simulation_plot.png)
 
 ### ⚡ Demonstração em Tempo Real
-![Aegis Demo](docs/assets/aegis_demo.gif)
+![Aegis Demo](https://raw.githubusercontent.com/Akirabrs/AEGIS-Project/main/docs/assets/aegis_demo.gif)
