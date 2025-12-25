@@ -19,14 +19,8 @@ The system utilizes the **NOBEL-V4** analytical engine to monitor plasma stabili
 ---
 *Developed by Guilherme Brasil de Souza (Guibral Labs) - 2025.*
 
-## 📊 Resultados da Simulação (AEGIS v4.1)
-
-O sistema AEGIS estabelece com sucesso um baseline durante a fase de calibração e dispara um sinal de intertravamento imediato ao detectar anomalias não-Gaussianas.
-
 ### 📈 Gráfico de Estabilidade
 ![Simulation Plot](docs/assets/simulation_plot.png)
-> **Figura 1:** Rastreamento de Curtose em tempo real mostrando a transição do ruído estável para o evento de shutdown.
 
 ### ⚡ Demonstração em Tempo Real
 ![Aegis Demo](docs/assets/aegis_demo.gif)
-> **Figura 2:** Execução do núcleo AEGIS processando sinais de 1MHz e acionando a segurança em < 1ms.
