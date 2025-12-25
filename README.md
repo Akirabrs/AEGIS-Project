@@ -1,4 +1,4 @@
-# 🛡️ AEGIS: Advanced Energy-limit & Guard Interlock System
+# 🛡️ AEGIS: Advanced Energy-limit & Guard Interlock System / ⚠️ “Simulation / academic use only”
 
 **AEGIS** is a mission-critical safety suite designed for real-time disruption prediction in Tokamak fusion reactors. 
 
@@ -15,7 +15,7 @@ The system utilizes the **NOBEL-V4** analytical engine to monitor plasma stabili
 ## 📁 Repository Structure
 - `src/aegis_core_v4_final.py`: The main safety orchestrator.
 - `docs/`: Audit reports and mission logs from Dias D'Avila Labs.
-
+- 
 ---
 *Developed by Guilherme Brasil de Souza (Guibral Labs) - 2025.*
 
